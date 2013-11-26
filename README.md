@@ -1,6 +1,6 @@
 ![screenshot](https://raw.github.com/KevinBongart/gitsome/master/screenshot.png)
 
-This fork of Matt's [nice and simple oh-my-zsh prompt](https://github.com/mtully/gitsome) uses parenthesis around the git branch instead of brckets around the whole prompt.
+This fork of Matt's [nice and simple oh-my-zsh prompt](https://github.com/mtully/gitsome) uses parenthesis around the git branch instead of brackets around the whole prompt.
 
 It's a super simple prompt with some git:
 
