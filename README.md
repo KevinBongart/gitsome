@@ -8,7 +8,7 @@ It's a super simple prompt with some git:
 2. Current git branch name
 3. Git status on the current branch (red/green)
 
-Use [flat-terminal](https://github.com/KevinBongart/flat-terminal) for the full effect.
+For full effect, use [flat-terminal color scheme](https://github.com/KevinBongart/flat-terminal) and [zsh-syntax-coloring](https://github.com/zsh-users/zsh-syntax-highlighting).
 
 ## How to install
 
